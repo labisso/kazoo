@@ -1,6 +1,12 @@
 Changelog
 =========
 
+0.9p1 (2013-06-05)
+------------------
+
+This is a hotfix release to address an OOI production bug:
+https://jira.oceanobservatories.org/tasks/browse/OOIION-847
+
 0.9 (2013-01-07)
 ----------------
 
